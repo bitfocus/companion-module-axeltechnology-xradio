@@ -1,26 +1,22 @@
 {
-	"id": "your-module-name",
-	"name": "your-module-name",
-	"shortname": "module-shortname",
-	"description": "A short one line description of your module",
+	"id": "axeltechnology_xradio",
+	"name": "axeltechnology_xradio",
+	"shortname": "xradio",
+	"description": "xradio commands",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "git+https://github.com/bitfocus/companion-module-your-module-name.git",
-	"bugs": "https://github.com/bitfocus/companion-module-your-module-name/issues",
+	"repository": "https://github.com/bitfocus/companion-module-axeltechnology-xradio",
+	"bugs": "",
 	"maintainers": [
-		{
-			"name": "Your name",
-			"email": "Your email"
-		}
 	],
+	"legacyIds": [],
 	"runtime": {
 		"type": "node18",
 		"api": "nodejs-ipc",
 		"apiVersion": "0.0.0",
-		"entrypoint": "../main.js"
+		"entrypoint": "../index.js"
 	},
-	"legacyIds": [],
-	"manufacturer": "Your company",
-	"products": ["Your product"],
-	"keywords": []
+	"manufacturer": "AxelTechnology",
+	"products": ["xradio"],
+	"keywords": ["xradio", "vj","axel","technology"]
 }

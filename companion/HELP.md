@@ -1,3 +1,8 @@
-## Your module
+## AxelTechnology xradio module
 
-Write some help for your users here!
+AxelTechnology module for performing TCP and UDP requests to xradio ecosystem
+
+**Available commands in this module**
+
+* Send TCP
+* Send UDP
