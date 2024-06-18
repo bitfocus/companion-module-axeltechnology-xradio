@@ -5,9 +5,13 @@
 	"description": "xradio commands",
 	"version": "0.0.0",
 	"license": "MIT",
-	"repository": "https://github.com/bitfocus/companion-module-axeltechnology-xradio",
-	"bugs": "",
+	"repository": "git+https://https://github.com/bitfocus/companion-module-axeltechnology-xradio.git",
+	"bugs": "https://github.com/bitfocus/companion-module-axeltechnology-xradio/issues",
 	"maintainers": [
+		{
+			"name": "Ruslan Rolkin",
+			"email": "ruslan.rolkin@axeltechnology.com"
+		}
 	],
 	"legacyIds": [],
 	"runtime": {
