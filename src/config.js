@@ -7,10 +7,7 @@ export const ConfigFields = [
 		label: 'Information',
 		width: 12,
 		value: `
-				<div class="alert alert-danger">
-					<h3>IMPORTANT MESSAGE</h3>
-					
-				</div>
+				Enter Ip address and port nr for the Xradio computer
 			`,
 	},
 	{
